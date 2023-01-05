@@ -1,0 +1,5 @@
+Thread,Baseline Read Access,Baseline Write Access,Baseline GC,Harp Read Access,Harp Write Access,Harp GC
+50,612.72,48.03,9615,251.11,38.57,3621
+60,785.34,152.14,12229,274.99,138.01,6138
+70,968.24,287.24,14636,545.13,248.66,8585
+80,1233.77,526.91,18994,891.58,568.77,13302
