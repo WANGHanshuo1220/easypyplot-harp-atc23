@@ -1,4 +1,4 @@
-Thread,Baseline Read Access,Baseline Write Access,Baseline GC,Harp Read Access,Harp Write Access,Harp GC
+Thread,Pacman Read Access,Pacman Write Access,Pacman GC,Harp Read Access,Harp Write Access,Harp GC
 18,0.30501,0.01284,4.816,0.07343,0.01192,1.330
 24,0.47719,0.03575,7.594,0.17357,0.03821,2.937
 30,0.66126,0.07359,10.353,0.2519,0.06437,4.590

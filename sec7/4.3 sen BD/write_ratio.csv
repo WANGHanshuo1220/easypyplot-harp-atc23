@@ -1,4 +1,4 @@
-Thread,Baseline Read Access,Baseline Write Access,Baseline GC,Harp Read Access,Harp Write Access,Harp GC
+Thread,Pacman Read Access,Pacman Write Access,Pacman GC,Harp Read Access,Harp Write Access,Harp GC
 0,0,0,"0 ",0,0,"0 "
 20,0.11396,0,"1.746 ",0,0,"0.160 "
 40,0.43880,0.02427,"6.776 ",0.14660,0.01952,"2.092 "
