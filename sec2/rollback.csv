@@ -1,0 +1,4 @@
+Class,Rollback Time,Invalid Tail Size (MB),(Naive) Rollback Time,(Naive) Invalid Tail Size (MB),Segment Pool Size (MB),Invalid Tail Ratio
+0,2850,146,11476,200,23856,0.008383635144198525
+1,12768,3186,4404456,3180,320,9.9375
+2,327969,20441,27761633,20188,240,84.11667
